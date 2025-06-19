@@ -1,0 +1,15 @@
+streamlit>=1.31.0
+audio-recorder-streamlit==0.0.6
+streamlit-float==0.2.0
+groq>=0.5.0
+librosa>=0.10.1
+soundfile>=0.12.1
+langdetect==1.0.9
+torch>=2.2.0
+elevenlabs>=1.0.5
+speechrecognition>=3.10.0
+python-dotenv>=1.0.1
+uuid==1.30
+numpy>=1.24.0
+scipy>=1.10.0
+requests>=2.31.0
